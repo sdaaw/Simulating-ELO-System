@@ -1,0 +1,6 @@
+c:\users\käyttäjä\documents\visual studio 2015\Projects\ELOTest\ELOTest\bin\Debug\ELOTest.exe.config
+c:\users\käyttäjä\documents\visual studio 2015\Projects\ELOTest\ELOTest\bin\Debug\ELOTest.exe
+c:\users\käyttäjä\documents\visual studio 2015\Projects\ELOTest\ELOTest\bin\Debug\ELOTest.pdb
+c:\users\käyttäjä\documents\visual studio 2015\Projects\ELOTest\ELOTest\obj\Debug\ELOTest.csprojResolveAssemblyReference.cache
+c:\users\käyttäjä\documents\visual studio 2015\Projects\ELOTest\ELOTest\obj\Debug\ELOTest.exe
+c:\users\käyttäjä\documents\visual studio 2015\Projects\ELOTest\ELOTest\obj\Debug\ELOTest.pdb
